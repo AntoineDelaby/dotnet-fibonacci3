@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/antoine/Fibonacci/correctedFibonacci/Fibonacci/src/Leonardo.Web/Leonardo.Web.csproj": {}
+    "/Users/antoine/Documents/M2/Microsoft-.NET/dotnet-fibonacci3/src/Leonardo.Web/Leonardo.Web.csproj": {}
   },
   "projects": {
-    "/Users/antoine/Fibonacci/correctedFibonacci/Fibonacci/src/Leonardo.Web/Leonardo.Web.csproj": {
+    "/Users/antoine/Documents/M2/Microsoft-.NET/dotnet-fibonacci3/src/Leonardo.Web/Leonardo.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/antoine/Fibonacci/correctedFibonacci/Fibonacci/src/Leonardo.Web/Leonardo.Web.csproj",
+        "projectUniqueName": "/Users/antoine/Documents/M2/Microsoft-.NET/dotnet-fibonacci3/src/Leonardo.Web/Leonardo.Web.csproj",
         "projectName": "Leonardo.Web",
-        "projectPath": "/Users/antoine/Fibonacci/correctedFibonacci/Fibonacci/src/Leonardo.Web/Leonardo.Web.csproj",
+        "projectPath": "/Users/antoine/Documents/M2/Microsoft-.NET/dotnet-fibonacci3/src/Leonardo.Web/Leonardo.Web.csproj",
         "packagesPath": "/Users/antoine/.nuget/packages/",
-        "outputPath": "/Users/antoine/Fibonacci/correctedFibonacci/Fibonacci/src/Leonardo.Web/obj/",
+        "outputPath": "/Users/antoine/Documents/M2/Microsoft-.NET/dotnet-fibonacci3/src/Leonardo.Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/antoine/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/antoine/Fibonacci/correctedFibonacci/Fibonacci/src/Leonardo/Leonardo.csproj": {
-                "projectPath": "/Users/antoine/Fibonacci/correctedFibonacci/Fibonacci/src/Leonardo/Leonardo.csproj"
+              "/Users/antoine/Documents/M2/Microsoft-.NET/dotnet-fibonacci3/src/Leonardo/Leonardo.csproj": {
+                "projectPath": "/Users/antoine/Documents/M2/Microsoft-.NET/dotnet-fibonacci3/src/Leonardo/Leonardo.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "/Users/antoine/Fibonacci/correctedFibonacci/Fibonacci/src/Leonardo/Leonardo.csproj": {
+    "/Users/antoine/Documents/M2/Microsoft-.NET/dotnet-fibonacci3/src/Leonardo/Leonardo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/antoine/Fibonacci/correctedFibonacci/Fibonacci/src/Leonardo/Leonardo.csproj",
+        "projectUniqueName": "/Users/antoine/Documents/M2/Microsoft-.NET/dotnet-fibonacci3/src/Leonardo/Leonardo.csproj",
         "projectName": "Leonardo",
-        "projectPath": "/Users/antoine/Fibonacci/correctedFibonacci/Fibonacci/src/Leonardo/Leonardo.csproj",
+        "projectPath": "/Users/antoine/Documents/M2/Microsoft-.NET/dotnet-fibonacci3/src/Leonardo/Leonardo.csproj",
         "packagesPath": "/Users/antoine/.nuget/packages/",
-        "outputPath": "/Users/antoine/Fibonacci/correctedFibonacci/Fibonacci/src/Leonardo/obj/",
+        "outputPath": "/Users/antoine/Documents/M2/Microsoft-.NET/dotnet-fibonacci3/src/Leonardo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/antoine/.nuget/NuGet/NuGet.Config"
